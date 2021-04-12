@@ -1,6 +1,6 @@
 # I4.0 Laboratory Simulation
 
-Simulation and synthetic generation of reliablity-related data.
+Simulation and generation of synthetic reliability-related data.
 
 ## Production Line Layout and Production Sequence
 
