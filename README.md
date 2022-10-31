@@ -27,6 +27,22 @@ Use `config.ini` to configure the simulation.
 
 # Usage & Attribution
 
-tbd
+If you are using the tool for a scientific project please consider citing our [publication](https://ieeexplore.ieee.org/document/9715410):
+
+    # Plain
+    J. Friederich, S. C. Jepsen, S. Lazarova-Molnar and T. Worm, 
+    "Requirements for Data-Driven Reliability Modeling and Simulation of Smart Manufacturing Systems,"
+    2021 Winter Simulation Conference (WSC), 2021, pp. 1-12, doi: 10.1109/WSC52266.2021.9715410.
+   
+    # BibTeX
+    @inproceedings{friederich_requirements_2021,
+        author={Friederich, Jonas and Jepsen, Sune Chung and Lazarova-Molnar, Sanja and Worm, Torben}, 
+        booktitle={2021 Winter Simulation Conference (WSC)},
+        title={Requirements for Data-Driven Reliability Modeling and Simulation of Smart Manufacturing Systems},
+        year={2021},  
+        pages={1-12},
+        doi={10.1109/WSC52266.2021.9715410}
+    }
+
 
 
